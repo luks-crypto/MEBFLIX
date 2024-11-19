@@ -1,0 +1,51 @@
+body {
+    color: white;
+    background: black;
+    margin: 0px;
+    font-family: "Anton SC", sans-serif;
+}
+
+header {
+    border-bottom: solid 2px purple;
+    padding: 20px;
+    font-size: 32px;
+    color: purple;
+}
+
+.Homem-Aranha {
+    background: rgb(184, 156, 213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+
+.Django {
+    background: rgb(212, 83, 83);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto2 {
+    margin-right: 5%;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
